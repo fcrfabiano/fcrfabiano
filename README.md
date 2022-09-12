@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Fabiano César</h1>
 
 - 📚 Atualmente estou focado somente em estudar e dar o meu máximo.
-- 📘 Faço Análise e Desenvolvimento de Sistemas pela Mackenzie.
 - 📙  Estudo Desenvolvimento web na Trybe.
 - 📗 Estudo Desenvolvimento web na Rocketseat.
 
