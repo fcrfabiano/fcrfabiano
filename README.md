@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Fabiano César</h1>
 
-- 📚 Atualmente estou focado somente em estudar e dar o meu máximo.
-- 📙  Estudo Desenvolvimento web na Trybe.
-- 📗 Estudo Desenvolvimento web na Rocketseat.
+- 📚 Desenvolvedor Full-Stack Júnior.
+- 📙  Estudo Desenvolvimento Web na Trybe.
+- 📗 Estudo Desenvolvimento Web na Rocketseat.
 
 <div align="center">
   <h3 align="left">Conecte-se comigo:</h3>
