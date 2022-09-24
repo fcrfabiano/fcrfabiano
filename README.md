@@ -21,6 +21,3 @@
   
   ##
   ![Snake animation](https://github.com/fcrfabiano/fcrfabiano/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fcrfabiano" alt="fcrfabiano" /></a> </p>
