@@ -97,7 +97,6 @@ function contactMe() {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcrfabiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrfabiano&layout=compact&langs_count=7&theme=radical" />
 </div>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fcrfabiano&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 </div>
 
 <br>
