@@ -6,18 +6,18 @@
 const aboutMe = {
   name: 'Fabiano Rosa',
   age: '31',
-  rank: 'Web Developer FullStack',
+  rank: 'Desenvolvedor Web FullStack',
   country: 'Brazil',
   hobbies: [
-    'play games',
-    'play guitar',
-    'listen to music',
+    'Passar Tempo com Meu Filho',
+    'Tocar Guitarra',
+    'Escutar Música',
   ],
   softSkills: [
-    'communication',
-    'teamwork',
-    'leadership',
-    'organization'
+    'Comunicação',
+    'Trabalho em Equipe',
+    'Escuta Ativa',
+    'Organização'
   ]
 };
 
