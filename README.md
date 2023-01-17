@@ -94,10 +94,10 @@ function contactMe() {
 
 <div align="center">
   <a href="https://github.com/fcrfabiano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcrfabiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrfabiano&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcrfabiano&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcrfabiano&layout=compact&langs_count=7&theme=radical" />
 </div>
-    <!-- <img heigh height="130em" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=fcrfabiano&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&date_format=&mode=daily&properties=background"/> -->
+    <img heigh height="130em" src="https://github-readme-streak-stats.herokuapp.com/demo/?user=fcrfabiano&theme=dark&hide_border=false&border_radius=4.5&locale=pt_BR&date_format=&mode=daily&properties=background" />
 </div>
 
 <br>
