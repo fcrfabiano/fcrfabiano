@@ -18,7 +18,13 @@ const aboutMe = {
     'Trabalho em Equipe',
     'Escuta Ativa',
     'Organização'
-  ]
+  ],
+  hardSkills: [
+    'JavaScript',
+    'TypeScript',
+    'ReactJS',
+    'NodeJS',
+  ],
 };
 
 function contactMe() {
