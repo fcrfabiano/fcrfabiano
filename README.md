@@ -17,7 +17,8 @@ const aboutMe = {
     'Comunicação',
     'Trabalho em Equipe',
     'Escuta Ativa',
-    'Organização'
+    'Organização',
+    'Resolução de Problemas',
   ],
   hardSkills: [
     'JavaScript',
