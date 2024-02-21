@@ -5,7 +5,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Fabiano Rosa',
-  age: '31',
+  age: '32',
   rank: 'Desenvolvedor Web FullStack',
   country: 'Brasil',
   hobbies: [
@@ -25,6 +25,7 @@ const aboutMe = {
     'TypeScript',
     'ReactJS',
     'NodeJS',
+    'NextJS'
   ],
 };
 
@@ -32,6 +33,7 @@ function contactMe() {
   return {
     email: 'fcfabiano.cesar@gmail.com',
     linkedin: 'https://www.linkedin.com/in/fabianocesar/',
+    portfolio: 'https://fcrfabiano.github.io/portfolio/'
   }
 }
 ```
