@@ -5,8 +5,8 @@
 ```JavaScript
 const aboutMe = {
   name: 'Fabiano Rosa',
-  age: '32',
-  rank: 'Desenvolvedor Web FullStack',
+  age: '33',
+  rank: 'Desenvolvedor Web FullStack - Pleno',
   country: 'Brasil',
   hobbies: [
     'Passar Tempo com Meu Filho',
@@ -25,7 +25,9 @@ const aboutMe = {
     'TypeScript',
     'ReactJS',
     'NodeJS',
-    'NextJS'
+    'NextJS',
+    'Svelte',
+    'Sveltekit'
   ],
 };
 
