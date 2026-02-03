@@ -5,20 +5,20 @@
 ```JavaScript
 const aboutMe = {
   name: 'Fabiano Rosa',
-  age: '33',
+  age: '34',
   rank: 'Desenvolvedor Web FullStack - Pleno',
   country: 'Brasil',
   hobbies: [
     'Passar Tempo com Meu Filho',
     'Tocar Guitarra',
-    'Escutar Música',
+    'Escutar Música'
   ],
   softSkills: [
     'Comunicação',
     'Trabalho em Equipe',
     'Escuta Ativa',
     'Organização',
-    'Resolução de Problemas',
+    'Resolução de Problemas'
   ],
   hardSkills: [
     'JavaScript',
